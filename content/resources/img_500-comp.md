@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-299-the-beatles-fall-2017/7c62e577f821132e268e01097c373bd5_IMG_500-comp.jpg
+file: /media/courses/21m-299-the-beatles-fall-2017/7c62e577f821132e268e01097c373bd5_IMG_500-comp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Using Assignment Guidelines to Make Expectations Explicit
+parent_type: CourseSection
 resourcetype: Image
 title: IMG_500-comp.jpg
 uid: 7c62e577-f821-132e-268e-01097c373bd5

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 title: Using Assignment Guidelines to Make Expectations Explicit
 uid: 135e3408-c011-5f83-861d-d67edb1d9c96

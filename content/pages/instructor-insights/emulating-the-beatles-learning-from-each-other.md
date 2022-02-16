@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 title: 'Emulating The Beatles: Learning From Each Other'
 uid: de7b3d9c-85c9-b1f1-ce96-9f2b2dd34ed5

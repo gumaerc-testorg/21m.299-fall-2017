@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-299-the-beatles-fall-2017/f085d1857f4e51cf6bb6caccfcc6668c_MIT21M_299F17_Notes16.pdf
+file: /media/courses/21m-299-the-beatles-fall-2017/f085d1857f4e51cf6bb6caccfcc6668c_MIT21M_299F17_Notes16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Week XI - Notes 16: Yellow Submarine - 21M.299 Fall 2017'
 uid: f085d185-7f4e-51cf-6bb6-caccfcc6668c

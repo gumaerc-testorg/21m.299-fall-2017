@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-299-the-beatles-fall-2017/0e60c52f8e68d9dd867ba393c39acd32_MIT21M_299F17_Notes17.pdf
+file: /media/courses/21m-299-the-beatles-fall-2017/0e60c52f8e68d9dd867ba393c39acd32_MIT21M_299F17_Notes17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Week XII - Notes 17: Abbey Road - 21M.299 Fall 2017'
 uid: 0e60c52f-8e68-d9dd-867b-a393c39acd32

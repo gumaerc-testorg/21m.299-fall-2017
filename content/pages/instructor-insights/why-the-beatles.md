@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 title: Why The Beatles?
 uid: 94b1c2c1-04e5-6827-28cd-9c742a3d41f3

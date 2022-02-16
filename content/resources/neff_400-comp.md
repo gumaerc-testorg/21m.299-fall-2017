@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-299-the-beatles-fall-2017/b748392043a39484e14dea400334ea81_Neff_400-comp.jpg
+file: /media/courses/21m-299-the-beatles-fall-2017/b748392043a39484e14dea400334ea81_Neff_400-comp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Neff_400-comp.jpg
 uid: b7483920-43a3-9484-e14d-ea400334ea81

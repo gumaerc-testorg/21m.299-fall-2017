@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-299-the-beatles-fall-2017/1ccef9a7d481166221ead927ca09efa2_MIT21M_299F17_Notes14.pdf
+file: /media/courses/21m-299-the-beatles-fall-2017/1ccef9a7d481166221ead927ca09efa2_MIT21M_299F17_Notes14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Week X - Notes 14: The Beatles White Album Discussion Questions - 21M.299
   Fall 2017'

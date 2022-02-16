@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-299-the-beatles-fall-2017/f8361dbd025bc1a0d5129c6a0bf16afb_MIT21M_299F17_Notes09.pdf
+file: /media/courses/21m-299-the-beatles-fall-2017/f8361dbd025bc1a0d5129c6a0bf16afb_MIT21M_299F17_Notes09.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Week VI - Notes 9: 1965 - 21M.299 Fall 2017'
 uid: f8361dbd-025b-c1a0-d512-9c6a0bf16afb
