@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week III - Notes 6: A Hard Day''s Night - 21M.299 Fall 2017'
 uid: a55bfd8c-a8ca-abad-fce6-d9776fde6f35

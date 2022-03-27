@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week XII - Notes 17: Abbey Road - 21M.299 Fall 2017'
 uid: 0e60c52f-8e68-d9dd-867b-a393c39acd32

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week VI - Notes 9: 1965 - 21M.299 Fall 2017'
 uid: f8361dbd-025b-c1a0-d512-9c6a0bf16afb

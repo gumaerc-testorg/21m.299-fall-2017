@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week I - Notes 1: Before They Were the Beatles - 21M.299 Fall 2017'
 uid: 11c4df88-9f5a-1a74-ca99-d8490138a4db

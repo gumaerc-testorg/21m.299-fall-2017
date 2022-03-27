@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week XIII - Notes 20: Two Of Us - 21M.299 Fall 2017'
 uid: 041d2698-2894-1b5b-1e5f-b33c3303de89

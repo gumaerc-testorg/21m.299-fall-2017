@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Why The Beatles?
 parent_type: CourseSection
+parent_uid: 94b1c2c1-04e5-6827-28cd-9c742a3d41f3
 resourcetype: Image
 title: The_Beatles_bronze.jpg
 uid: bdc8451e-f110-15de-7305-0f38ae14a4b0

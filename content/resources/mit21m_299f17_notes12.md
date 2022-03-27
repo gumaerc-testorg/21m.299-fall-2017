@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week IX - Notes 12: 1967 and 1968 - 21M.299 Fall 2017'
 uid: 039ef759-2f93-1a94-2779-11bc8c38888a

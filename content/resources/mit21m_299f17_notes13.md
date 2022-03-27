@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week IX - Notes 13: Strawberry Fields - 21M.299 Fall 2017'
 uid: 89d2e2c5-f445-e9bc-45f7-aa21995ae792

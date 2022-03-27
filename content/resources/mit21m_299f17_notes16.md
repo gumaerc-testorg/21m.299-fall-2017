@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week XI - Notes 16: Yellow Submarine - 21M.299 Fall 2017'
 uid: f085d185-7f4e-51cf-6bb6-caccfcc6668c

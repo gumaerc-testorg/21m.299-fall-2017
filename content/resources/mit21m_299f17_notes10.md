@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week VII - Notes 10: Rubber Soul - 21M.299 Fall 2017'
 uid: 44ed315c-6ed2-6df1-b4d8-fb93a9bed9f3

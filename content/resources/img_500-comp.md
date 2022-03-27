@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Using Assignment Guidelines to Make Expectations Explicit
 parent_type: CourseSection
+parent_uid: 135e3408-c011-5f83-861d-d67edb1d9c96
 resourcetype: Image
 title: IMG_500-comp.jpg
 uid: 7c62e577-f821-132e-268e-01097c373bd5
