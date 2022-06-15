@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Teresa Neff shares why she selected The Beatles as
+  the topic for this music analysis course.   '
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,16 +12,15 @@ parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 title: Why The Beatles?
 uid: 94b1c2c1-04e5-6827-28cd-9c742a3d41f3
 ---
-
-_In this section, Teresa Neff shares why she selected The Beatles as the topic for this music analysis course._
+_In this section, Teresa Neff shares why she selected the Beatles as the topic for this music analysis course._
 
 {{< quote "When you want to engage with music analysis, you either have to have people who are conversant, or you have to have a lot of good scores that can help bridge any gaps for participants who feel unsure about doing this kind of work." "— Teresa Neff" >}}
 
 I wanted to teach a course about the Beatles because of their popularity today and their influence on the 1960s. I hoped that by looking at the Beatles’ body of work, students could see where these musicians came from, how they were open to new influences, and how they influenced each other. 
 
-We also had ample materials that could support the course. Hunter Davies’ _The Beatles_ and T_he Beatles Anthology_ served as the mainstays of the class. We had other texts about the Beatles owned by the MIT Lewis Music Library. These materials allowed us to supplement our studies beautifully.
+We also had ample materials that could support the course. Hunter Davies’ _The Beatles_ and _The Beatles Anthology_ served as the mainstays of the class. We had other texts about the Beatles owned by the MIT Lewis Music Library. These materials allowed us to supplement our studies beautifully.
 
-![The_Beatles_bronze.jpg]({{< resource_file bdc8451e-f110-15de-7305-0f38ae14a4b0 >}})
+{{< resource bdc8451e-f110-15de-7305-0f38ae14a4b0 >}}
 
 The Beatles' bronze statues in Liverpool, England. Artist: Andrew Edwards. (Image courtesy of [lwr](https://www.flickr.com/photos/lwr/39925141745/) (Leo Reynolds) on Flickr. License:  CC BY-NC-SA).
 
