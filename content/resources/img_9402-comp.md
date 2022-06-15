@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-299-the-beatles-fall-2017/f6839c8f6d00b381efb62dbf149a53c2_IMG_9402-comp.jpg
+file: /courses/21m-299-the-beatles-fall-2017/f6839c8f6d00b381efb62dbf149a53c2_IMG_9402-comp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

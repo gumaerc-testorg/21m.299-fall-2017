@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes an overview of the course, assignments, grading,
+  and calendar with key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +32,7 @@ The course is structured so that we listen to one Beatles album every week, in c
 
 Assigned readings will be taken from this text: Hunter Davies, _The Beatles_, New York: Norton, 2009. ISBN: 978-0393338744.
 
-There will be additional readings and listening assignments posted in the [Reading and Listening section]({{< baseurl >}}/pages/reading-and-listening).
+There will be additional readings and listening assignments posted in the {{% resource_link 9f962c68-e154-8ded-b2da-09435a08f71a "Reading and Listening section" %}}.
 
 Supplemental text: _The Beatles Anthology_, San Francisco: Chronicle Books, 2000.
 
@@ -42,13 +44,13 @@ There are three types of written work for this class:
 2.  Reflection on two weekly analysis reports (1–2 pages)
 3.  A final essay (5–6 pages) on an approved topic.
 
-See [Assignments section]({{< baseurl >}}/pages/assignments) for format guidelines and assignment details.
+See {{% resource_link e3292dfe-18ad-2b3e-42a6-d751914e770f "Assignments section" %}} for format guidelines and assignment details.
 
 Please note: Plagiarism in the writing of any paper is a serious academic (and moral) offense. Plagiarism includes any unacknowledged use of outside sources, whether published or not, whether by scholars, bloggers, or fellow students. In our climate of facile electronic exchange and Internet copying, the temptation to use other people’s written work without proper citation is great. But the student should be aware that plagiarism in this or any course will likely lead to a failing grade in the class, and carries the risk of expulsion from the Institute. (On a personal note, plagiarism does not help you understand the material you have professed to study by taking this class.)
 
 ### Group Formation and Presentations
 
-Group work and presentation are a focus of this course. For more about this and group formation, see [Learning From Each Other]({{< baseurl >}}/pages/instructor-insights/emulating-the-beatles-learning-from-each-other) in the [Instructor Insights section]({{< baseurl >}}/pages/instructor-insights).
+Group work and presentation are a focus of this course. For more about this and group formation, see {{% resource_link de7b3d9c-85c9-b1f1-ce96-9f2b2dd34ed5 "Learning From Each Other" %}} in the {{% resource_link 5060b95f-152f-d848-f2c0-12f9928a4e84 "Instructor Insights section" %}}.
 
 Participation
 -------------
