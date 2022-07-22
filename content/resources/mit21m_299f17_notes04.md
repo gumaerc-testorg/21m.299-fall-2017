@@ -5,6 +5,7 @@ file: /courses/21m-299-the-beatles-fall-2017/f5a28ec2202ed6908602a04460a30387_MI
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
