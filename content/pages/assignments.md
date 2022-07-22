@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This sections contains details about the assignments and final project
+  in the course
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e3292dfe-18ad-2b3e-42a6-d751914e770f
 ---
@@ -32,7 +37,7 @@ Required: Names of each member of the group and a list of works consulted, inclu
 
 For musical analysis, see the complete transcriptions: _The Beatles: Complete Scores; Every Song Written & Recorded by the Beatles_. Hal Leonard (2nd Edition), 1993. ISBN: 978-0793518326.
 
-[Weekly Analysis Topics]({{< baseurl >}}/pages/reading-and-listening#analysis-topics)
+{{% resource_link 9f962c68-e154-8ded-b2da-09435a08f71a "Weekly Analysis Topics" "#analysis-topics" %}}
 
 Weekly Analysis Report Reflection
 ---------------------------------
@@ -62,4 +67,4 @@ There will be opportunities to meet with the instructor to discuss topics, resea
 
 Two class session are set aside for each student to talk about their paper in an informal discussion.
 
-Please consult the [Paper and Citation Guide (PDF)]({{< baseurl >}}/resources/mit21m_299f17_guide).
+Please consult the {{% resource_link 54f9558c-9983-8a68-f436-74b573c68826 "Paper and Citation Guide (PDF)" %}}.

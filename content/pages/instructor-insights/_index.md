@@ -1,90 +1,68 @@
 ---
 content_type: page
+description: In this section Teresa Neff describes various aspects of how she taught
+  21M.299 The Beatles.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-![Photograph of the instructor standing in front of a painting.]({{< resource_file 8275a586-f212-61f5-4d84-52bfe8977d7e >}})
+{{< resource 8275a586-f212-61f5-4d84-52bfe8977d7e >}}
 
 Teresa Neff, Lecturer in Music and Theater Arts.
 
 In the following pages, Teresa Neff describes various aspects of how she taught _21M.299 The Beatles._
 
-*   [Why The Beatles?]({{< baseurl >}}/pages/instructor-insights/why-the-beatles)
-*   [Emulating The Beatles: Learning From Each Other]({{< baseurl >}}/pages/instructor-insights/emulating-the-beatles-learning-from-each-other)
-*   [Using Assignment Guidelines to Make Expectations Explicit]({{< baseurl >}}/pages/instructor-insights/using-assignment-guidelines-to-make-expectations-explicit)
-*   [Critiquing Others’ Work to Improve Your Own]({{< baseurl >}}/pages/instructor-insights/critiquing-others2019-work-to-improve-your-own)
+- {{% resource_link 94b1c2c1-04e5-6827-28cd-9c742a3d41f3 "Why The Beatles?" %}}
+- {{% resource_link de7b3d9c-85c9-b1f1-ce96-9f2b2dd34ed5 "Emulating The Beatles: Learning From Each Other" %}}
+- {{% resource_link 135e3408-c011-5f83-861d-d67edb1d9c96 "Using Assignment Guidelines to Make Expectations Explicit" %}}
+- {{% resource_link 976fc8a9-28f3-f54d-9458-8173017d5b3a "Critiquing Others’ Work to Improve Your Own" %}}
 
 {{< quote "I had a blast leading this class. The students were amazing. They were invested and brought so much to the class. I enjoyed every minute of it." "— Teresa Neff" >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_21M.030 Introduction to World Music_](/courses/21m-030-introduction-to-world-music-spring-2013/) or permission of the instructor
+[_21M.030 Introduction to World Music_](/courses/21m-030-introduction-to-world-music-spring-2013) or permission of the instructor
 
 ### Requirements Satisfied
 
-GIR ![](/images/educator/icon-question-gir.png)
-
-HASS ![](/images/educator/icon-question-hass.png)
+- GIR ![](/images/educator/icon-question-gir.png)
+- HASS ![](/images/educator/icon-question-hass.png)
 
 ### Offered
 
 Every fall and spring semester; topics vary
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Photograph of classroom with a piano on the far wall, white boards on the far and left wall. Tablet chairs along the right wall of windows.]({{< resource_file 63e3d05c-b755-2ec3-2744-8836f8a759be >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom equipped with a piano, white boards, and an A/V system.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
 - 70% Weekly analysis (10 projects, 7% each)
 - 13% Final project (essay and discussion)
 - 10% Reflection on weekly analysis (2 papers, 5% each)
 - 7% Participation
 
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
 ### Rubrics
 
-Read Teresa Neff’s insights on [Using Assignment Guidelines to Make Expectations Explicit]({{< baseurl >}}/pages/instructor-insights/using-assignment-guidelines-to-make-expectations-explicit).
+Read Teresa Neff’s insights on {{% resource_link 135e3408-c011-5f83-861d-d67edb1d9c96 "Using Assignment Guidelines to Make Expectations Explicit" %}}.
 
-Student Information
--------------------
+## Student Information
 
-![23 students took this course when it was taught in Fall 2017.]({{< resource_file e8dc19a4-e9b1-1687-d0b6-e7cc6b3d9092 >}})
+### Enrollment
+
+23 students
 
 ### Breakdown by Year
 
@@ -100,18 +78,15 @@ Many students had taken a course on harmony and counterpoint, and as a result, w
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 1.5 hours per session; 28 sessions total. Mandatory attendance.
-*   About half the class sessions involved student presentations of their musical analyses.
+- Met 2 times per week for 1.5 hours per session; 28 sessions total. Mandatory attendance.
+- About half the class sessions involved student presentations of their musical analyses.
 
-Out of Class
-------------
+### Out of Class
 
-*   Outside of class, students completed weekly analyses for selected songs, wrote reflections on others’ analyses, and prepared final essays.
+- Outside of class, students completed weekly analyses for selected songs, wrote reflections on others’ analyses, and prepared final essays.

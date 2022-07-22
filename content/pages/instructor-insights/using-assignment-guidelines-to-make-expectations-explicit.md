@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: 'In this section, Teresa Neff shares her insights about the importance
+  of explicitly stating expectations about how students should engage with assignments.   '
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 title: Using Assignment Guidelines to Make Expectations Explicit
 uid: 135e3408-c011-5f83-861d-d67edb1d9c96
 ---
-
 _In this section, Teresa Neff shares her insights about the importance of explicitly stating expectations about how students should engage with assignments._
 
 {{< quote "I don’t believe it’s fair to expect a student to implicitly know what I want them to do." "— Teresa Neff" >}}
@@ -17,6 +22,6 @@ As a result, I’ve been trying to be more specific about my expectations, but w
 
 I didn’t feel this way when I first started teaching. But I’ve learned over the years that we don’t have a right to expect students to perform in a certain way unless we tell them what we require.
 
-![Close-up of woman's hands holding assignment guidelines printed on white paper.]({{< resource_file 7c62e577-f821-132e-268e-01097c373bd5 >}})
+{{< resource 7c62e577-f821-132e-268e-01097c373bd5 >}}
 
-Teresa Neff holds a set of guidelines for students analyses.
+Teresa Neff holds a set of guidelines for students' analyses.

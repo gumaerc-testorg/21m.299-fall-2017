@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: "In this section, Teresa Neff discusses what she hoped students would\
+  \ learn by critiquing each other\u2019s analyses.   "
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 title: "Critiquing Others\u2019 Work to Improve Your Own"
 uid: 976fc8a9-28f3-f54d-9458-8173017d5b3a

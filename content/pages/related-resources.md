@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Selected list of books about the Beatles available in the Lewis Music
+  Library with links to Amazon.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 88550c45-ba5a-db38-98f8-214ab5cc4bda
 ---

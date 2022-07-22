@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section lists topics of discussion, reading and listening assignments,
+  and weekly analysis topics for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Reading and Listening
 uid: 9f962c68-e154-8ded-b2da-09435a08f71a
 ---
