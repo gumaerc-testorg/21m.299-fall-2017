@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-299-the-beatles-fall-2017/041d269828941b5b1e5fb33c3303de89_MIT21M_299F17_Notes20.pdf
+file_size: 239253
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-299-the-beatles-fall-2017/c009d1430d5a43452826b7afd9ddc3b5_Beatles_Album-comp.jpg
+file_size: 11513
 file_type: image/jpeg
 image_metadata:
   caption: ''
