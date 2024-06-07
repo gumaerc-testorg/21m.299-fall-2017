@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-299-the-beatles-fall-2017/8275a586f21261f54d8452bfe8977d7e_Neff_400_comp.jpg
+file_size: 15937
 file_type: image/jpeg
 image_metadata:
   caption: ''
