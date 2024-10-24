@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-299-the-beatles-fall-2017/0031d2fc1bd8a3c15a71dc641e4bae21_MIT21M_299F17_Notes15.pdf
+file: /ol-ocw-studio-app/courses/21m-299-the-beatles-fall-2017/0031d2fc1bd8a3c15a71dc641e4bae21_MIT21M_299F17_Notes15.pdf
 file_size: 231434
 file_type: application/pdf
 learning_resource_types:
