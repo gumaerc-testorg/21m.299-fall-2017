@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guide to paper and citation format.
-file: /ol-ocw-studio-app/courses/21m-299-the-beatles-fall-2017/54f9558c99838a68f43674b573c68826_MIT21M_299F17_guide.pdf
+file: /courses/21m-299-the-beatles-fall-2017/54f9558c99838a68f43674b573c68826_MIT21M_299F17_guide.pdf
 file_size: 260417
 file_type: application/pdf
 learning_resource_types:
