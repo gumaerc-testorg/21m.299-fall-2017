@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-299-the-beatles-fall-2017/bdc8451ef11015de73050f38ae14a4b0_The_Beatles_bronze.jpg
+file: /ol-ocw-studio-app/courses/21m-299-the-beatles-fall-2017/bdc8451ef11015de73050f38ae14a4b0_The_Beatles_bronze.jpg
 file_size: 74259
 file_type: image/jpeg
 image_metadata:
