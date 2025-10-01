@@ -20,7 +20,7 @@ The Beatles lived an insulated life in the 1960s. They couldn’t go out without
 
 {{< resource c009d143-0d5a-4345-2826-b7afd9ddc3b5 >}}
 
-"Strawberry Fields Forever:" A-side single by The Beatles with B-side "Penny Lane" released in 1967. (Image courtesy of [Mark Sardella](https://www.flickr.com/photos/dr_television/418198728/in/photolist-CXnUU-dT6qSn-7whkPo-a35Z38-22YVDnT-XsAZgA-dT76gv-dTc3vh-kTGmta-7tzAk5-ptn7ws-dTc55h-dTc3nS-jVfrSg-qu4u4b-91rc7y-hUr85-djbqbi-CXnUD-oG8nz5-ao25mS-9cnpcL-gZteUy-6FunxZ-7n69HV-oE8jLf-24weWpS-WjDfhg-7na2R9-4dKA9g-gZtHqf-7jgnn5-opEM3o-7wdvgR-dTc3AJ-7WECRt-7WHS2j-ahfQ87-7WED1T-hjEUVU-dT6qCc-4Cfaiy-238YAqK-BtDdMg-4c6HwN-6VYn9q-7WED3a-RUFgFQ-jDYdpM-4VMZXe) on Flickr. License: CC BY-NC-SA).
+"Strawberry Fields Forever:" A-side single by The Beatles with B-side "Penny Lane" released in 1967. (Image courtesy of {{% resource_link "2c8795f6-73b4-4a70-9f39-94c161a83fc1" "Mark Sardella" %}} on Flickr. License: CC BY-NC-SA).
 
 I wanted the course experience to emulate the Beatles learning from each other. As such, group work became a central component. I administered a questionnaire at the beginning of the course to gauge students’ musical skill sets and used that information to make sure that students with strong musical abilities were grouped with students who felt less confident in their abilities, so that they could help each other get better at the focal skills. We also constantly shifted groups so that everybody in the class worked with everybody else. My guiding philosophy was that everybody could bring something to the table.
 
